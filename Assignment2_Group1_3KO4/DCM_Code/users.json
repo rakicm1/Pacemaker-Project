@@ -1,0 +1,74 @@
+{
+    "james": {
+        "password": "$2b$12$iQpjwGeX5gnUiQY5NeGf.eWD3lfwb30W43ron1oARcmCrnCxILux6",
+        "mode": "VVIR",
+        "parameters": {
+            "Lower Rate Limit (ppm)": 41,
+            "Upper Rate Limit (ppm)": 136,
+            "Ventricular Amplitude (V)": 1.0,
+            "Ventricular Pulse Width (ms)": 0.9,
+            "Ventricular Sensitivity (mV)": 4.5,
+            "VRP (ms)": 150,
+            "Maximum Sensor Rate (ppm)": 50,
+            "Reaction Time (s)": 10,
+            "Response Factor": 1,
+            "Recovery Time (min)": 2,
+            "Rate Smoothing (%)": 6
+        }
+    },
+    "james123": {
+        "password": "$2b$12$f2IIzkGFPQEkHWOm6.cCye4aeWb5jwKNwSfAO2j.qmkcqKLAEldcS",
+        "mode": "AOO"
+    },
+    "jamescameron": {
+        "password": "$2b$12$JKtwLvVmN6Pg6bS5NzZ5k.ZvAe/FNLrlMIHqXWhTUS85yEJd8tLF2",
+        "mode": "VVI",
+        "parameters": {
+            "Lower Rate Limit": 156,
+            "Upper Rate Limit": 157,
+            "Atrial Amplitude": 3.9,
+            "Atrial Pulse Width": 1.1,
+            "Ventricular Amplitude": 2.1,
+            "Ventricular Pulse Width": 2.0,
+            "VRP": 320,
+            "ARP": 250
+        }
+    },
+    "james3": {
+        "password": "$2b$12$SBHYHP7ho8qlbPaKW8KrSeaRbh825uC63s411oLHBv.g3JTJslnIW",
+        "mode": "AOO"
+    },
+    "James": {
+        "password": "$2b$12$VvGBhAgQmAJTos.t8lIRU.G7LfUGsi7HoGMArQDTVrdHS0tz0gmP.",
+        "mode": "AOO"
+    },
+    "james2": {
+        "password": "$2b$12$GaGwjPYjsAJTY9ki2L/bQeCgrF50iPUgolYt4F3KvG1F91ZXDV2pm",
+        "mode": "AOO",
+        "parameters": {
+            "Lower Rate Limit (ppm)": 68,
+            "Upper Rate Limit (ppm)": 71,
+            "Atrial Amplitude (V)": 7.0,
+            "Ventricular Amplitude (V)": 1.4,
+            "Atrial Pulse Width (ms)": 0.9,
+            "Ventricular Pulse Width (ms)": 0.1,
+            "VRP (ms)": 387,
+            "ARP (ms)": 150
+        }
+    },
+    "hello": {
+        "password": "$2b$12$01G/vGtPy6Uu6U41kFbem.AnE4dofs2bIaGbfyKkJGVTX3.kLzSZq",
+        "mode": "VOO",
+        "parameters": {
+            "Lower Rate Limit (ppm)": 60,
+            "Upper Rate Limit (ppm)": 175,
+            "Ventricular Amplitude (V)": 5.0,
+            "Ventricular Pulse Width (ms)": 1
+        }
+    },
+    "hello ": {
+        "password": "$2b$12$SltxYqkq/ApBZ2IDsr6byuiDrL1Y7EI2ct6o6bTX9GmwDpsu52wrK",
+        "mode": "AOO",
+        "parameters": {}
+    }
+}
